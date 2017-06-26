@@ -1,0 +1,18 @@
+sudo apt-get install curl wget lynx w3m
+
+sudo apt-get install html2text
+
+sudo apt-get install python3-setuptools
+sudo easy_install3 pip
+
+pip install nltk
+pip install requests
+
+
+-------------------------------
+sudo apt-get install caca-utils
+
+sudo apt-get install lynx
+
+
+
